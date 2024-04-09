@@ -1,0 +1,32 @@
+/* Button style */
+.button {
+    -fx-background-color: #14213d;
+    -fx-text-fill: white;
+}
+
+/* Text style */
+.text {
+    -fx-font-family: "Bell MT";
+    -fx-font-size: 14px;
+}
+
+/* AnchorPane style */
+.anchor-pane {
+    -fx-background-color: #e5e5e5;
+}
+
+/* ListView style */
+.list-view {
+    -fx-background-color: white;
+}
+
+/* ImageView style */
+.image-view {
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
+
+/* TextFields style */
+.text-field {
+    -fx-prompt-text-fill: #808080;
+}
